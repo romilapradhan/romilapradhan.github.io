@@ -1,28 +1,70 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /group/
+title: group
+description: 
 nav: true
+dropdown: true
 nav_order: 6
+children:
+    - title: Dr. Romila Pradhan
+      permalink: /romila
+    - title: Members
+      permalink: /group/
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: PradhanRomila-Dec2022.jpg
+    content: about_romila.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: no_pic.jpg
+    content: about_ambarish.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
+  - align: left
+    image: jahid.jpg
+    content: about_jahid.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: tanmay.jpg
+    content: about_tanmay.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: ekta.jpg
+    content: about_ekta.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: shashank.jpg
+    content: about_shashank.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+  
+  - align: left
+    image: tejendra.jpg
+    content: about_tejendra.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: kevin.jpg
+    content: about_kevin.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    content: about_collaborators.md
+    more_info: >
+
 ---

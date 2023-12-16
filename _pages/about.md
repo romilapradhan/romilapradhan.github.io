@@ -2,25 +2,43 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'></a>
+# subtitle: <a href='#'>Romila Pradhan</a>
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We study problems at the intersection of data management and machine learning to build trustworthy and responsible decision-making systems. Our aim is to develop systems that enable explainability, fairness, and accountability of data-driven decision-making systems. We are particularly interested in:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<ul>
+    <li>
+        <b>Explaining and debugging fairness violations in machine learning models and data science pipelines:</b> 
+        <ul>
+            <li>How can we determine sources of unexpected errors and bias in machine learning model outcomes?</li>
+            <li>How can we decompose unexpected or discriminatory behavior of data science pipelines in terms of the different pipeline stages?</li>
+            <li>Can we effectively generate post hoc explanations for the outcomes of machine learning models?</li>
+        </ul>
+    </li>
+    <li>
+        <b>Data integration and data cleaning:</b>
+        <ul>
+            <li>How can we leverage expert feedback to improve data cleaning techniques for machine learning?</li>
+            <li>Can we use the final outcomes in data science pipelines to inform intermediate pipeline choices?</li> 
+            <li>How can we intertwine pipeline stages with downstream analytics to improve upon the end goals? </li>
+        </ul>
+    </li>
+</ul>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<b> <u>We are always looking for motivated Ph.D. students to collaborate with.</u></b> If you are interested in data management and/or responsible data analytics, feel free to <a href="mailto:rpradhan@purdue.edu">contact us</a> with your CV/resume and a couple of sentences describing your research interests, and consider <a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html">applying</a> to <a href="https://polytechnic.purdue.edu/degrees/phd-technology/admissions/application-package-components">Purdue CIT</a>!

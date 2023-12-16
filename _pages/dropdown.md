@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: research
 nav: true
 nav_order: 7
 dropdown: true
@@ -8,6 +8,6 @@ children:
     - title: publications
       permalink: /publications/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: CNIT 581-RDM
+      permalink: /teaching/
 ---

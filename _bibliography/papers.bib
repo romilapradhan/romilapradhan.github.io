@@ -1,84 +1,291 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@article{phd-thesis,
+author = {Pradhan, Romila},
+year = "2018",
+title = "{Guided Data Fusion}",
+journal = "Ph.D. Thesis",
+publisher = "Purdue University",
+pdf = "thesis.pdf",
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@INPROCEEDINGS{9835698,
+  author={Pradhan, Romila and Lahiri, Aditya and Galhotra, Sainyam and Salimi, Babak},
+  booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)}, 
+  title={Explainable AI: Foundations, Applications, Opportunities for Data Management Research}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3209-3212},
+  doi={10.1109/ICDE53745.2022.00300}, 
+  website = {https://explainable-ai-tutorial.github.io/},
+  abstract = {Algorithmic decision-making systems are successfully being adopted in a wide range of domains for diverse tasks. While the potential benefits of algorithmic decision-making are many, the importance of trusting these systems has only recently attracted attention. There is growing concern that these systems are complex, opaque and non-intuitive, and hence are difficult to trust. There has been a recent resurgence of interest in explainable artificial intelligence (XAI) that aims to reduce the opacity of a model by explaining its behavior, its predictions or both, thus allowing humans to scrutinize and trust the model. A host of technical advances have been made and several explanation methods have been proposed in recent years that address the problem of model explainability and transparency. In this tutorial, we will present these novel explanation approaches, characterize their strengths and limitations, position existing work with respect to the database (DB) community, and enumerate opportunities for data management research in the context of XAI.}
+  }
+
+
+@inproceedings{10.1145/3514221.3522564,
+author = {Pradhan, Romila and Lahiri, Aditya and Galhotra, Sainyam and Salimi, Babak},
+title = {Explainable AI: Foundations, Applications, Opportunities for Data Management Research},
+year = {2022},
+isbn = {9781450392495},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3514221.3522564},
+doi = {10.1145/3514221.3522564},
+abstract = {Algorithmic decision-making systems are successfully being adopted in a wide range of domains for diverse tasks. While the potential benefits of algorithmic decision-making are many, the importance of trusting these systems has only recently attracted attention. There is growing concern that these systems are complex, opaque and non-intuitive, and hence are difficult to trust. There has been a recent resurgence of interest in explainable artificial intelligence (XAI) that aims to reduce the opacity of a model by explaining its behavior, its predictions or both, thus allowing humans to scrutinize and trust the model. A host of technical advances have been made and several explanation methods have been proposed in recent years that address the problem of model explainability and transparency. In this tutorial, we will present these novel explanation approaches, characterize their strengths and limitations, position existing work with respect to the database (DB) community, and enumerate opportunities for data management research in the context of XAI.},
+booktitle = {Proceedings of the 2022 International Conference on Management of Data},
+pages = {2452–2457},
+numpages = {6},
+keywords = {data management, explainable AI},
+location = {Philadelphia, PA, USA},
+series = {SIGMOD '22},
+selected = true,
+website = {https://explainable-ai-tutorial.github.io/},
+pdf = {xai-sigmod.pdf}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
+
+@INPROCEEDINGS{8509404,  author={Pradhan, Romila and Bykau, Siarhei and Prabhakar, Sunil},  booktitle={2018 IEEE 34th International Conference on Data Engineering (ICDE)},   title={{A Framework to Integrate User Feedback for Rapid Conflict Resolution}},   year={2018},  volume={},  number={},  pages={1589-1592},  doi={10.1109/ICDE.2018.00183},
+pdf={user-feedback-fusion-demo.pdf},
+abstract = {Data fusion addresses the problem of consolidating
+data from disparate information providers into a single unified
+interface. The different data sources often provide conflicting
+information for the same data item. Recently, several automated
+data fusion models have been proposed to resolve conflicts and
+identify correct data. Although quite effective, these data fusion
+models do not achieve a close-to-perfect accuracy.
+We present the demonstration of a system that leverages
+users as first-class citizens to confirm data conflicts and rapidly
+improve the effectiveness of fusion. This demonstration is built on
+solutions proposed in our previous work [1]. To utilize the user
+judiciously, our system presents claims in an order that is the most
+beneficial to effectiveness of fusion across data items. We describe
+ranking algorithms that are built on concepts from information
+theory and decision theory, and do not need access to ground
+truth. We describe the user input framework and demonstrate
+how conflict resolution can be expedited with minimal feedback
+from the user. We show that: (a) the framework can be easily
+adopted to existing data fusion models without any internal
+changes to the models, and (b) the framework can integrate both
+perfect and imperfect feedback from users.}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@inproceedings{10.1145/3514221.3520170,
+author = {Zhu, Jiongli and Pradhan, Romila and Glavic, Boris and Salimi, Babak},
+title = {{Generating Interpretable Data-Based Explanations for Fairness Debugging Using Gopher}},
+year = {2022},
+abstract = {Machine learning (ML) models, while increasingly being used to
+make life-altering decisions, are known to reinforce systemic bias
+and discrimination. Consequently, practitioners and model developers need tools to facilitate debugging for bias in ML models. We
+introduce Gopher, a system that generates compact, interpretable
+and causal explanations for ML model bias. Gopher identifies the
+top-𝑘 coherent subsets of the training data that are root causes
+for model bias by quantifying the extent to which removing or
+updating a subset can resolve the bias. We describe the architecture
+of Gopher and will walk the audience through real-world use cases
+to highlight how Gopher generates explanations that enable data
+scientists to understand how subsets of the training data contribute
+to the bias of a machine learning (ML) model. Gopher is available
+as open-source software; The code and the demonstration video
+are available at https://gopher-sys.github.io/.},
+isbn = {9781450392495},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3514221.3520170},
+doi = {10.1145/3514221.3520170},
+booktitle = {Proceedings of the 2022 International Conference on Management of Data},
+pages = {2433–2436},
+numpages = {4},
+keywords = {interpretability, fairness, explanations, data debugging},
+location = {Philadelphia, PA, USA},
+series = {SIGMOD '22},
+pdf={gopher-demo.pdf}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{10.14778/3476311.3476345,
+author = {Wang, Paul Y. and Galhotra, Sainyam and Pradhan, Romila and Salimi, Babak},
+title = {{Demonstration of Generating Explanations for Black-Box Algorithms Using Lewis}},
+year = {2021},
+issue_date = {July 2021},
+publisher = {VLDB Endowment},
+volume = {14},
+number = {12},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/3476311.3476345},
+doi = {10.14778/3476311.3476345},
+journal = {Proceedings of the VLDB Endowment},
+month = {Jul},
+pages = {2787–2790},
+numpages = {4},
+pdf={lewis-demo.pdf}, 
+abstract={Explainable artifcial intelligence (XAI) aims to reduce the opacity of
+AI-based decision-making systems, allowing humans to scrutinize
+and trust them. Unlike prior work that attributes the responsibility for an algorithm’s decisions to its inputs as a purely associational concept, we propose a principled causality-based approach
+for explaining black-box decision-making systems. We present the
+demonstration of Lewis, a system that generates explanations for
+black-box algorithms at the global, contextual, and local levels, and
+provides actionable recourse for individuals negatively afected by
+an algorithm’s decision. Lewis makes no assumptions about the
+internals of the algorithm except for the availability of its inputoutput data. The explanations generated by Lewis are based on
+probabilistic contrastive counterfactuals, a concept that can be
+traced back to philosophical, cognitive, and social foundations of
+theories on how humans generate and select explanations. We describe the system layout of Lewis wherein an end-user specifes
+the underlying causal model and Lewis generates explanations for
+particular use-cases, compares them with explanations generated
+by state-of-the-art approaches in XAI, and provides actionable recourse when applicable. Lewis has been developed as open-source
+software; the code and the demonstration video are available at
+lewis-system.github.io}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{lewis-icml,
+author = {Galhotra, Sainyam and Pradhan, Romila and Salimi, Babak},
+year = "2021",
+title = "{Feature Attribution and Recourse via Probabilistic Contrastive Counterfactuals}",
+journal = "ICML Workshop on Algorithmic Recourse",
+pdf = "icml_lewis_recourse.pdf",
+abstract = "There has been a recent resurgence of interest in
+explainable artificial intelligence (XAI) that aims
+to reduce the opaqueness of AI-based decisionmaking systems, allowing humans to scrutinize
+and trust them. Prior work has focused on two
+main approaches: (1) Attribution of responsibility
+for an algorithm’s decisions to its inputs, wherein
+responsibility is typically approached as a purely
+associational concept that can lead to misleading
+conclusions. (2) Generating counterfactual explanations and recourse, where these explanations
+are typically obtained by considering the smallest perturbation in an algorithm’s input that can
+lead to the algorithm’s desired outcome. However, these perturbations may not translate to realworld interventions. In this paper, we propose a
+principled and novel causality-based approach for
+explaining black-box decision-making systems
+that exploit probabilistic contrastive counterfactuals to provide a unifying framework to generate
+wide ranges of global, local and contextual explanations that provide insights into what causes an
+algorithm’s decisions, and generate actionable recourse translatable into real-world interventions."}
+
+@InProceedings{10.1007/978-3-319-98812-2_7,
+author="Pradhan, Romila
+and Aref, Walid G.
+and Prabhakar, Sunil",
+title="{Leveraging Data Relationships to Resolve Conflicts from Disparate Data Sources}",
+booktitle="Database and Expert Systems Applications",
+year="2018",
+publisher="Springer International Publishing",
+address="Cham",
+pages="99--115",
+isbn="978-3-319-98812-2",
+pdf="semantic-fusion.pdf",
+abstract = {Recently, a number of data fusion systems have been proposed that offer conflict resolution as a mechanism to integrate conflicting data from multiple information providers. State-of-the-art data
+fusion systems largely consider claims for a data item to be unrelated
+to each other. In many domains, however, the observed claims are often
+related to each other through various entity-relationships. We propose
+a formalism to express entity-relationships among claims of data items
+and design a framework to integrate the data relationships with existing
+data fusion models to improve the effectiveness of fusion. We conducted
+an experimental evaluation on real-world data, and show that the performance of fusion was significantly improved with the integration of
+data relationships by (a) generating meaningful correctness probabilities for claims of data items, and (b) ensuring that the multiple correct
+claims output by the fusion models were consistent with each other. Our
+approach outperforms state-of-the-art algorithms that consider the presence of relationships over claims of data items.}
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@article{authintegrate,
+author = {Pradhan, Romila and Prabhakar, Sunil},
+year = "2019",
+title = "{AuthIntegrate: Toward Combating False Data on the Internet}",
+journal = "SIGKDD Workshop on Truth Discovery and Fact Checking: Theory and Practice",
+pdf = "false-data.pdf",
+abstract = "The advent of the collaborative Web and the abundance of usergenerated data has resulted in the problem of information overload;
+it is becoming increasingly difficult to discern relevant information
+and discard false data. Recently, a number of solutions for automated fact-checking have been proposed that view the problem
+from a largely linguistic perspective. We observe that the problem
+of false data detection has roots in several extensively studied research areas in data management and data mining such as data
+integration, data cleaning, crowdsourcing and machine learning.
+Specifically, detection of false data has significant overlap with data
+fusion, an active area of research in data integration that focuses on
+distinguishing correct from incorrect information in a structured
+data setting. In this vision paper, we propose the architecture of
+AuthIntegrate, an end-to-end system that ingests conflicting data
+from disparate information providers, curates and presents highly
+accurate data to end-users. We discuss the technical challenges in
+building this system and outline an agenda for future research."}
+
+@inproceedings{pradhan2022gopher,
+  title={{Interpretable Data-Based Explanations for Fairness Debugging}},
+  author={Pradhan, Romila and Zhu, Jiongli and Glavic, Boris and Salimi, Babak},
+  booktitle={Proceedings of the 2021 International Conference on Management of Data},
+  year={2022},
+  abstract = {A wide variety of fairness metrics and eXplainable Artificial Intelligence (XAI) approaches have been proposed in the literature to
+identify bias in machine learning models that are used in critical
+real-life contexts. However, merely reporting on a model’s bias or
+generating explanations using existing XAI techniques is insufficient to locate and eventually mitigate sources of bias. We introduce
+Gopher, a system that produces compact, interpretable, and causal
+explanations for bias or unexpected model behavior by identifying
+coherent subsets of the training data that are root-causes for this behavior. Specifically, we introduce the concept ofcausal responsibility
+that quantifies the extent to which intervening on training data by
+removing or updating subsets of it can resolve the bias. Building
+on this concept, we develop an efficient approach for generating
+the top-𝑘 patterns that explain model bias by utilizing techniques
+from the machine learning (ML) community to approximate causal
+responsibility, and using pruning rules to manage the large search
+space for patterns. Our experimental evaluation demonstrates the
+effectiveness of Gopher in generating interpretable explanations
+for identifying and debugging sources of bias.},
+  selected = true,
+  pdf = {gopher-sigmod.pdf},
+  website = {https://gopher-sys.github.io/}
+}
+
+
+@inproceedings{galhotra2021explaining,
+  title={{Explaining Black-Box Algorithms using Probabilistic Contrastive Counterfactuals}},
+  author={Galhotra, Sainyam and Pradhan, Romila and Salimi, Babak},
+  booktitle={Proceedings of the 2021 International Conference on Management of Data},
+  pages={577--590},
+  year={2021},
+  selected = true,
+  pdf = {lewis-sigmod.pdf},
+  website = {https://lewis-system.github.io/}, 
+  abstract = {There has been a recent resurgence of interest in explainable arti!cial intelligence (XAI) that aims to reduce the opaqueness of
+AI-based decision-making systems, allowing humans to scrutinize
+and trust them. Prior work in this context has focused on the attribution of responsibility for an algorithm’s decisions to its inputs
+wherein responsibility is typically approached as a purely associational concept. In this paper, we propose a principled causalitybased approach for explaining black-box decision-making systems
+that addresses limitations of existing methods in XAI. At the core
+of our framework lies probabilistic contrastive counterfactuals, a
+concept that can be traced back to philosophical, cognitive, and
+social foundations of theories on how humans generate and select
+explanations. We show how such counterfactuals can quantify the
+direct and indirect in!uences of a variable on decisions made by
+an algorithm, and provide actionable recourse for individuals negatively affected by the algorithm’s decision. Unlike prior work, our
+system, Lewis: (1) can compute provably effective explanations and
+recourse at local, global and contextual levels; (2) is designed to
+work with users with varying levels of background knowledge of
+the underlying causal model; and (3) makes no assumptions about
+the internals of an algorithmic system except for the availability of
+its input-output data. We empirically evaluate Lewis on four realworld datasets and show that it generates human-understandable
+explanations that improve upon state-of-the-art approaches in XAI,
+including the popular LIME and SHAP. Experiments on synthetic
+data further demonstrate the correctness of Lewis’s explanations
+and the scalability of its recourse algorithm.}
+}
+
+
+@article{human-ds,
+author = {Pradhan, Romila and Li, Tianyi},
+year = "2022",
+title = "{Human-in-the-Loop Bias Mitigation in Data Science}",
+journal = "Human-Centered AI Workshop (HCAI) @ NeurIPS 22 (Vision)"}
+
+@inproceedings{10.1145/3035918.3035941,
+author = {Pradhan, Romila and Bykau, Siarhei and Prabhakar, Sunil},
+title = {{Staging User Feedback toward Rapid Conflict Resolution in Data Fusion}},
+year = {2017},
+abstract = {In domains such as the Web, sensor networks and social media, sources often provide conflicting information for the same data item. Several data fusion techniques have been proposed recently to resolve conflicts and identify correct data. The performance of these fusion systems, while quite accurate, is far from perfect. In this paper, we propose to leverage user feedback for validating data conflicts and rapidly improving the performance of fusion. To present the most beneficial data items for the user to validate, we take advantage of the level of consensus among sources, and the output of fusion to generate an effective ordering of items. We first evaluate data items individually, and then define a novel decision-theoretic framework based on the concept of value of perfect information (VPI) to order items by their ability to boost the performance of fusion. We further derive approximate formulae to scale up the decision-theoretic framework to large-scale data. We empirically evaluate our algorithms on three real-world datasets with different characteristics, and show that the accuracy of fusion can be significantly improved even while requesting feedback on a few data items. We also show that the performance of the proposed methods depends on the characteristics of data, and assess the trade-off between the amount of feedback acquired, and the effectiveness and efficiency of the methods.},
+isbn = {9781450341974},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3035918.3035941},
+doi = {10.1145/3035918.3035941},
+booktitle = {Proceedings of the 2017 ACM International Conference on Management of Data},
+pages = {603–618},
+numpages = {16},
+keywords = {data fusion, user feedback, data integration},
+location = {Chicago, Illinois, USA},
+series = {SIGMOD '17},
+selected = true,
+pdf={user-feedback-fusion.pdf}
 }
