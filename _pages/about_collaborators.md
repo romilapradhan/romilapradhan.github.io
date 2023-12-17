@@ -1,6 +1,6 @@
 <br>
 
-Additionally, I have been fortunate to work with the following graduate and undergraduate students:
+We have also been fortunate to work with the following graduate and undergraduate students:
 
 <ul>
 	<li>Sathvika Kotha (MS, Purdue CIT, Fall 2022--)</li>

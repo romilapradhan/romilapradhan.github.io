@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Romila Pradhan
-permalink: /romila
+permalink: /romila/
 # subtitle: <a href='#'></a>
 # subtitle: <a href='#'>Romila Pradhan</a>
 

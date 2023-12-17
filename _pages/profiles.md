@@ -8,7 +8,7 @@ dropdown: true
 nav_order: 6
 children:
     - title: Dr. Romila Pradhan
-      permalink: /romila
+      permalink: /romila/
     - title: Members
       permalink: /group/
 
