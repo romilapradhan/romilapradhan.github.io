@@ -3,7 +3,7 @@
 We have also been fortunate to work with the following graduate and undergraduate students:
 
 <ul>
-	<li>Sathvika Kotha (MS, Purdue CIT, Fall 2022--)</li>
+	<li>Sathvika Kotha (MS, Purdue CIT, Spring 2023--)</li>
 	<li>Ahana Bhattacharyya (BS, SUNY Buffalo CS, Spring 2023--)</li>
 	<li>Liming Liu (BS, Purdue CIT, Spring 2023)</li>
 	<li>Anusha Sarraf (BS, Purdue CS, Spring 2023)</li>
