@@ -1,17 +1,16 @@
 ---
-layout: page
+layout: profiles
 title: Romila Pradhan
 permalink: /romila/
 # subtitle: <a href='#'></a>
 # subtitle: <a href='#'>Romila Pradhan</a>
 
-profile:
-  align: right
+profiles:
+- align: right
   image: PradhanRomila-Dec2022.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     
-
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
