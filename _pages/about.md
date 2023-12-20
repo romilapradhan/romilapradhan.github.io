@@ -32,7 +32,7 @@ We study problems at the intersection of data management and machine learning to
         </ul>
     </li>
     <li>
-        <b>Data integration and data cleaning:</b>
+        <b>Data integration and data quality:</b>
         <ul>
             <li>How can we leverage expert feedback to improve data cleaning techniques for machine learning?</li>
             <li>Can we use the final outcomes in data science pipelines to inform intermediate pipeline choices?</li> 
