@@ -22,7 +22,7 @@ profiles:
     more_info: >
     
   - align: left
-    image: no_pic.jpg
+    image: ambarish.jpg
     content: about_ambarish.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -30,18 +30,6 @@ profiles:
   - align: left
     image: jahid.jpg
     content: about_jahid.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-
-  - align: left
-    image: tanmay.jpg
-    content: about_tanmay.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-
-  - align: left
-    image: ekta.jpg
-    content: about_ekta.md
     image_circular: true # crops the image to make it circular
     more_info: >
 
@@ -58,8 +46,14 @@ profiles:
     more_info: >
 
   - align: left
-    image: kevin.jpg
-    content: about_kevin.md
+    image: no_pic.jpg
+    content: about_omkar.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: no_pic.jpg
+    content: about_ananya.md
     image_circular: true # crops the image to make it circular
     more_info: >
 
