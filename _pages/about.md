@@ -41,7 +41,7 @@ We study problems at the intersection of data management and machine learning to
     </li>
 </ul>
 
-<b> <u>We are always looking for motivated Ph.D. students to collaborate with.</u></b> If you are interested in data management and/or responsible data analytics, feel free to <a href="mailto:rpradhan@purdue.edu">contact us</a> with your CV/resume and a couple of sentences describing your research interests, and consider <a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html">applying</a> to <a href="https://polytechnic.purdue.edu/degrees/phd-technology/admissions/application-package-components">Purdue CIT</a>!
+<b> <u>We are always looking for motivated Ph.D. students to collaborate with.</u></b> If you are interested in data management and/or responsible data analytics, feel free to <a href="mailto:rpradhan@purdue.edu">contact us</a> with your CV/resume and a couple of sentences describing your research interests, and consider <a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html">applying</a> to <a href="https://www.purdue.edu/academics/ogsps/prospective/gradrequirements/westlafayette/cnit.html">Purdue CIT</a>!
 
 <b> Sponsors </b> We are thankful for the generous funding award and gift from our sponsors:
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2237149">NSF</a>, <a href="https://research.google/outreach/research-scholar-program/recipients/?category=2022">Google</a>, and <a href="https://casmi.northwestern.edu/research/projects/data-biases.html">CASMI</a>.
