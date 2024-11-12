@@ -46,13 +46,13 @@ profiles:
     more_info: >
 
   - align: left
-    image: no_pic.jpg
+    image: omkar.jpg
     content: about_omkar.md
     image_circular: true # crops the image to make it circular
     more_info: >
 
   - align: left
-    image: no_pic.jpg
+    image: ananya.jpg
     content: about_ananya.md
     image_circular: true # crops the image to make it circular
     more_info: >
