@@ -1,6 +1,9 @@
 <br>
 <b> Alumni </b>
 <ul>
+	<li>Shashank Thandri (MS, Purdue CIT, December 2024)</li>
+	<li>Kevin Chittilapilly (MS, Purdue CIT, December 2024)</li>
+	<li>Tejendra Singh (MS, Purdue CIT, December 2024)</li>
 	<li>Ekta (MS, Purdue CIT, Summer 2024)</li>
 	<li>Sathvika Kotha (MS, Purdue CIT, Summer 2024)</li>
 	<li>Tanmay Surve (MS, Purdue CIT, December 2023)</li>

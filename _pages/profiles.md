@@ -34,24 +34,6 @@ profiles:
     more_info: >
 
   - align: left
-    image: shashank.jpg
-    content: about_shashank.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-  
-  - align: left
-    image: kevin.jpg
-    content: about_kevin.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-
-  - align: left
-    image: tejendra.jpg
-    content: about_tejendra.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-
-  - align: left
     image: omkar.jpg
     content: about_omkar.md
     image_circular: true # crops the image to make it circular
