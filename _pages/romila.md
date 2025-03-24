@@ -38,7 +38,6 @@ My reseach lies in the broad area of data management and data science. My curren
 <h3>Professional Activities</h3>
 
 <b>Program Committee: </b> SIGMOD (2026), VLDB (2026), EDBT (2026), ICDE (2025)
-
 <br><b>NSF Panel Reviewer: </b> CISE IIS (2022 - 2024)
 
 
