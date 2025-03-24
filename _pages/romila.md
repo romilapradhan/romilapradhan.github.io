@@ -23,7 +23,24 @@ Previously, I was a Postdoctoral Researcher at the <a href="https://datascience.
 
 My research is supported by an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2237149">NSF CAREER Award</a>, a <a href="https://casmi.northwestern.edu/research/projects/data-biases.html">CASMI research grant</a>, and a <a href="https://research.google/outreach/research-scholar-program/recipients/?category=2022">Google Research Scholar Award</a>.
 
-<br>
 <h3>Research Interests</h3>
 My reseach lies in the broad area of data management and data science. My current research is in the area of responsible data science that is aimed at developing systems that enable explainability, fairness, and accountability of data-driven decision-making systems. I am also interested in ensuring that the data input to different data analytics tasks is of the highest quality. Toward that end, I have worked on problems in data integration, focusing on resolving conflicts in data integrated from disparate data sources and ensuring that users of a conflict resolution system can trust the quality of the integrated data.
+
+
+<h3>Teaching</h3>
+<ul>
+  <li><a href="https://romilapradhan.github.io/teaching/">Responsible Data Science</a></li>
+  <li>Enterprise Data Management</li>
+  <li>Database Administration</li>
+</ul>
+
+
+<h3>Professional Activities</h3>
+
+<b>Program Committee: </b> SIGMOD (2026), VLDB (2026), EDBT (2026), ICDE (2025)
+
+<br><b>NSF Panel Reviewer: </b> CISE IIS (2022 - 2024)
+
+
+
 
