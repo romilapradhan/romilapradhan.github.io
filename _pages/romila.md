@@ -29,9 +29,9 @@ My reseach lies in the broad area of data management and data science. My curren
 
 <h3>Teaching</h3>
 <ul>
-  <li><a href="https://romilapradhan.github.io/teaching/">Responsible Data Science</a></li>
-  <li>Enterprise Data Management</li>
-  <li>Database Administration</li>
+  <li><a href="https://romilapradhan.github.io/teaching/">Responsible Data Science</a> (graduate)</li>
+  <li>Enterprise Data Management (undergraduate)</li>
+  <li>Database Administration (undergraduate)</li>
 </ul>
 
 
