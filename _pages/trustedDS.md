@@ -18,6 +18,8 @@ This material is based upon work supported by the National Science Foundation un
 
 <b><u>Project Publications</u>:</b>
 <ul>
+  <li><b>Explanations for Machine Learning Pipelines under Data Drift</b>
+    <br>Jahid Hasan, and <a href="http://romilapradhan.github.io/romila/">Romila Pradhan</a>. <i>In Proceedings of the Human-in-the-Loop Data Analytics (HILDA) Workshop at the 2025 ACM International Conference on Management of Data (SIGMOD), Berlin, Germany, 2025.</i></li>
   <li><b>Explaining Fairness Violations using Machine Unlearning</b>
     <br>Tanmay Surve, and <a href="http://romilapradhan.github.io/romila/">Romila Pradhan</a>. <i>In Proceedings of the 28th International Conference on Extending Database Technology (EDBT), Barcelona, Spain, 2025.</i></li>
   <li><b>Valuation-based Data Acquisition for Machine Learning Fairness</b>
