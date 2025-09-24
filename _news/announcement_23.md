@@ -1,8 +1,8 @@
 ---
 layout: post
-date:  2025-03-03
+date:  2025-03-01
 inline: true
 related_posts: false
 ---
 
-Dr. Pradhan gave a talk at the Cornell CS Database Seminar.
+Welcoming Harshita to the group! Harshita has joined as an M.S. student.

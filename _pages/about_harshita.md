@@ -1,4 +1,4 @@
-<h3>Ekta</h3>
+<h3>Harshita Rathee</h3>
 
 <h4>M.S. student</h4>
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-date:  2025-06-20
+date:  2025-05-07
 inline: true
 related_posts: false
 ---
 
-Our paper on Label Flipping for Group Fairness got accepted to the <a href="https://qdb-workshop.github.io/">14th International Workshop on Quality in Databases (QDB)</a> at the <a href="https://vldb.org/2025/">51st VLDB conference</a>.
+Our paper on Explanations for Machine Learning Pipelines under Data Drift got accepted to the <a href="https://2025.sigmod.org/">2025 ACM International Conference on Management of Data (SIGMOD)</a>.
