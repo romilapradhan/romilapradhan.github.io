@@ -62,8 +62,11 @@ profiles:
     more_info: >
 
   - align: left
+    image: 2024-Nov-lab-lunch.jpeg
+    more_info: November 2024 (Ananya, Jahid, Kevin, Romila, Omkar, Shashank)
+
+  - align: left
     image: 2023-Dec-lab-lunch.jpeg
-    content: about_lab_pics.md
-    more_info: >
+    more_info: December 2023 (Ekta, Romila, Anusha, Aisha, Gaurav, Jahid, Tanmay, Shashank, Kevin)
 
 ---
