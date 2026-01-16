@@ -61,4 +61,9 @@ profiles:
     content: about_collaborators.md
     more_info: >
 
+  - align: left
+    image: 2023-Dec-lab-lunch.jpeg
+    content: about_lab_pics.md
+    more_info: >
+
 ---
