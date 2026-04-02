@@ -2,7 +2,8 @@
 
 <p>	
 	<br>Assistant Professor
-	<br>Department of Computer and Information Technology
+	<br>School of Applied and Creative Computing 
+	<br>(formerly the Department of Computer and Information Technology)
 	<br>Purdue University
 </p>
 
