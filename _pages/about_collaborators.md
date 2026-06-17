@@ -1,6 +1,7 @@
 <br>
 <b> Alumni </b>
 <ul>
+	<li>Harshita Rathee (MS, Purdue CIT, May 2026)</li>
 	<li>Shashank Thandri (MS, Purdue CIT, December 2024)</li>
 	<li>Kevin Chittilapilly (MS, Purdue CIT, December 2024)</li>
 	<li>Tejendra Singh (MS, Purdue CIT, December 2024)</li>
@@ -12,6 +13,7 @@
 We have also been fortunate to work with the following undergraduate students:
 
 <ul>
+	<li>Ritwik Jayaraman (BS, Purdue CS, Spring 2026 - )</li>
 	<li>Ahana Bhattacharyya (BS, SUNY Buffalo CS, Spring 2023 - Summer 2024)</li>
 	<li>Liming Liu (BS, Purdue CIT, Spring 2023)</li>
 	<li>Anusha Sarraf (BS, Purdue CS, Spring 2023)</li>
