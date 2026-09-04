@@ -40,24 +40,6 @@ profiles:
     more_info: >
 
   - align: left
-    image: no_pic.jpg
-    content: about_ike.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-
-  - align: left
-    image: omkar.jpg
-    content: about_omkar.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-
-  - align: left
-    image: ananya.jpg
-    content: about_ananya.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-
-  - align: left
     content: about_collaborators.md
     more_info: >
 

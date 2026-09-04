@@ -1,6 +1,12 @@
 <br>
-<b> Alumni </b>
+<b> Graduated Ph.D.</b>
 <ul>
+	<li>Ike Obi, August 2026</li>
+</ul>
+
+<b> Graduated M.S.</b>
+<ul>
+	<li>Ananya Uppal (MS, Purdue CIT, August 2026)</li>
 	<li>Harshita Rathee (MS, Purdue CIT, May 2026)</li>
 	<li>Shashank Thandri (MS, Purdue CIT, December 2024)</li>
 	<li>Kevin Chittilapilly (MS, Purdue CIT, December 2024)</li>
