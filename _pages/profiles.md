@@ -44,8 +44,24 @@ profiles:
     more_info: >
 
   - align: left
+    image: 2026-May-lab-lunch.jpeg
+    more_info: May 2026 (Jahid, Aisha, Harshita, Romila, Anusha, Ananya, Bhamini (Ambarish's wife), Ambarish)
+
+  - align: left
+    image: 2026-May-lab-lunch-2.jpeg
+    more_info: May 2026 (Harshita's graduation)
+
+  - align: left
     image: 2024-Nov-lab-lunch.jpeg
     more_info: November 2024 (Ananya, Jahid, Kevin, Romila, Omkar, Shashank)
+
+  - align: left
+    image: Graduation-Ekta-2024.jpeg
+    more_info: May 2024 (Ekta's graduation)
+
+  - align: left
+    image: Graduation-Tanmay-2023.jpeg
+    more_info: December 2024 (Tanmays's graduation)
 
   - align: left
     image: 2023-Dec-lab-lunch.jpeg
