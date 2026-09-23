@@ -8,7 +8,7 @@ children:
     - title: publications
       permalink: /publications/
     - title: divider
-    - title: Trusted Data Science Project
+    - title: NSF CAREER- Trusted Data Science Project
       permalink: /trustedDS/
     - title: divider
     - title: CNIT 581-RDM
